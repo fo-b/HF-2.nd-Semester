@@ -29,7 +29,7 @@ As I embark on my second-semester project within the same academic year, I'm bri
 | 1st. Sprint          |               | 27.11.2023 |
 | 2nd. Sprint          |               | 18.12.2023 |
 | Prepare presentation |               | 31.01.2024 |
-| 3rd sprinss          |  30.06.2023   | 31.01.2024 |
+| 3rd. Sprint          |               | 31.01.2024 |
 
 <br>
 
