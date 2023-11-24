@@ -81,7 +81,7 @@ Instead of creating each instance manually, it would be beautiful to have a simp
 
 ### :sunglasses: WOW!
 
-To automate anything with a manual interaction is like my passion, especially if I see there is a huge time-saving potential and it is possible to do it. Since AWS has provided very strong and detailed documentation for each service, I can always check these documents.s
+To automate anything with a manual interaction is like my passion, especially if I see there is a huge time-saving potential and it is possible to do it. Since AWS has provided very strong and detailed documentation for each service, I can always check these documents.
 
 <br>
 
