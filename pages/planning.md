@@ -2,7 +2,7 @@
 
 > Go [back](/pages/clarification.md)
 >
-> Go [further](/pages/variation.md)
+> Go [further](/pages/implementation.md)
 
 ![Banner](/img/banner_planning.png)
 
