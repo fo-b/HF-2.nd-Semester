@@ -12,7 +12,7 @@ In this segment, I aim to outline each individual step I've taken, highlighting 
 
 ## :green_book: Working environment
 
-My current work environment is on AWS, inside the Lambda function, where I developed and tested the main function using manual JSON injections. You can track the entire development status of the Lambda function [here](). It is primarily built in Python.
+My current work environment is on AWS, inside the Lambda function, where I developed and tested the main function using manual JSON injections. You can track the entire development status of the Lambda function [here](/docs/lambda_func.py). It is primarily built in Python.
 
 ## :closed_lock_with_key: Access AWS Academy Learner Lab
 
