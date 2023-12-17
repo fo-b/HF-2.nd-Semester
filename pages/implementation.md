@@ -85,4 +85,4 @@ With these provided screenshots, it is securely proven that the SQS Trigger fetc
 
 ## Develop the Lambda function
 
-[Here](), you can see the development and improvement of the Lambda function, which I strive to perfect almost every day.
+[Here](/docs/lambda_func.py), you can see the development and improvement of the Lambda function, which I strive to perfect almost every day.
