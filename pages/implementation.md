@@ -2,7 +2,7 @@
 
 > Go [back](/pages/planning.md)
 >
-> Go [further](/pages/)
+> Go [further](/pages/testing.md)
 
 ![Banner](/img/banner_implementation.png)
 
@@ -12,7 +12,7 @@ In this segment, I aim to outline each individual step I've taken, highlighting 
 
 ## :green_book: Working environment
 
-My current work environment is on AWS, inside the Lambda function, where I developed and tested the main function using manual JSON injections. You can track the entire development status of the Lambda function [here](/docs/lambda_func.py). It is primarily built in Python.
+My current work environment is on AWS, inside the Lambda function, where I developed and tested the main function using manual JSON injections. You can track the entire development status of the Lambda function [here](/docs/lambda_func/). It is primarily built in Python.
 
 ## :closed_lock_with_key: Access AWS Academy Learner Lab
 
@@ -85,4 +85,4 @@ With these provided screenshots, it is securely proven that the SQS Trigger fetc
 
 ## Develop the Lambda function
 
-[Here](/docs/lambda_func.py), you can see the development and improvement of the Lambda function, which I strive to perfect almost every day.
+[Here](/docs/lambda_func/), you can see the development and improvement of the Lambda function, which I strive to perfect almost every day.
