@@ -1,0 +1,22 @@
+{
+  "orderID": "gb293Twie2944345",
+  "surname": "Toni",
+  "lastname": "Mahoni",
+  "department": "it_webshop_development",
+  "email": "toni@tbz.ch",
+  "orderDescription": "New vm for webshop migration",
+  "instanceName": "webshop01",
+  "ami": "ubuntu",
+  "instanceType": "t3.micro",
+  "environment": "dev",
+  "networkSubnet": "eu-central-1a-01",
+  "firewallProfiles": [
+    "ssh_internal",
+    "https_public",
+    "http_internal"
+  ],
+  "publicIP": true,
+  "state": "present",
+  "userData": "sudo apt-get install apache2 -y",
+  "costCenter": "2493_it_ops"
+}
