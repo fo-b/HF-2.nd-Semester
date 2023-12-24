@@ -19,7 +19,7 @@
 - [x] YES
 
 ![CloudWatch](/img/testing/cloudwatch_some_entry.png)
-*Figure*
+*Figure 14*
 
 <br>
 
@@ -30,7 +30,7 @@
 - [x] YES
 
 ![CloudWatch](/img/testing/cloudwatch_usecase_successfully.png)
-*Figure*
+*Figure 15*
 
 <br>
 
@@ -41,10 +41,10 @@
 - [x] YES
 
 ![EC2](/img/testing/ec2_usecase_created.png)
-*Figure*
+*Figure 16*
 
 ![EC2](/img/testing/ec2_usecase_running.png)
-*Figure*
+*Figure 17*
 
 <br>
 
@@ -55,7 +55,7 @@
 - [x] YES
 
 ![EC2](/img/testing/ec2_security.png)
-*Figure*
+*Figure 18*
 
 <br>
 
@@ -66,7 +66,7 @@
 - [x] YES
 
 ![EC2](/img/testing/ec2_public_web.png)
-*Figure*
+*Figure 19*
 
 </details>
 
@@ -82,34 +82,34 @@
 
 #### Deleted
 ![EC2](/img/testing/ec2_terminated.png)
-*Figure*
+*Figure 20*
 
 ![EC2](/img/testing/ec2_terminated_2.png)
-*Figure*
+*Figure 21*
 
 <br>
 
 #### Stopped
 ![EC2](/img/testing/ec2_stopped.png)
-*Figure*
+*Figure 22*
 
 ![EC2](/img/testing/ec2_stopped_2.png)
-*Figure*
+*Figure 23*
 
 <br>
 
 #### Restarted
 ![EC2](/img/testing/ec2_restarted.png)
-*Figure*
+*Figure 24*
 
 <br>
 
 #### Start
 ![EC2](/img/testing/ec2_start.png)
-*Figure*
+*Figure 25*
 
 ![EC2](/img/testing/ec2_start_2.png)
-*Figure*
+*Figure 26*
 
 </details>
 
@@ -124,7 +124,7 @@
 Check [here](/docs/pyzeebe.py) the needed Python script
 
 ![Pyzeebe](/img/testing/pyzeebe.png)
-*Figure*
+*Figure 27*
 
 </details>
 
