@@ -70,6 +70,9 @@ Cf. Prof. Dr. Marin Zec, [sec. 4](https://xn--kreativittstechniken-jzb.info/idee
 
 ![Machbarkeitsmatrix](/img/feasibility.png)
 
+*Figure 1*
+
+<br>
 
 ### :satisfied: NOW!
 
@@ -103,4 +106,4 @@ Camunda workflow automation platform and Amazon SQS, in collaboration with Yves 
 
 For my semester work, I am using the Kanban method as the project methodology.
 
-> Jump [up](#🎫-hf-dipl-it--1st-semester)
+> Jump [up](#🎫-dipl-informatikerin-hf-cloud-native-engineer--hf-2nd-semester)

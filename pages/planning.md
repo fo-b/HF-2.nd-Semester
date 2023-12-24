@@ -33,6 +33,7 @@ The resource plan delineates the assigned roles for each team member. In my capa
 ## SWOT analysis
 
 ![SWOT](/img/swot.png)
+*Figure 2*
 
 The SWOT analysis highlights strengths in Python development, a passion for automation, and detailed AWS documentation. A potential weakness is single-language proficiency. Opportunities include streamlining EC2 provisioning with Lambda and SQS, requiring enhanced Python skills and exploring new AWS services. Security concerns and rapid tech evolution are threats. Strategies involve continuous learning, collaboration, and a security focus. Diversifying language skills and exploring multilingual Lambda functions address weaknesses and leverage opportunities.
 
@@ -42,4 +43,4 @@ The SWOT analysis highlights strengths in Python development, a passion for auto
 
 I have effectively managed my costs as I am currently only working within the AWS Academy Lab, where I haven't incurred any expenses.
 
-> Jump [up](#🎫-hf-dipl-it--1st-semester)
+> Jump [up](#🎫-dipl-informatikerin-hf-cloud-native-engineer--hf-2nd-semester)
