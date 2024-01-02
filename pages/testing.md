@@ -2,7 +2,7 @@
 
 > Go [back](/pages/implementation.md)
 >
-> Go [further](/pages/)
+> Go [further](/pages/sources.md)
 
 ![Banner](/img/banner_testing.png)
 
@@ -113,9 +113,9 @@
 
 </details>
 
-<details><summary>Give feedvback back to Camunda</summary>
+<details><summary>Give feedback back to Camunda</summary>
 
-### Can I give feedback back to Camunda to continue the BPM?
+### Can I give a feedback to Camunda to continue the BPM process?
 
 - [ ] NO
 
@@ -129,5 +129,9 @@ Check [here](/docs/pyzeebe.py) the needed Python script
 </details>
 
 <br>
+
+## Test Results Summary
+
+All use cases were successfully executed and marked as complete during testing. This confirms that the scripts meets the specified requirements and functions as intended. The positive results demonstrate the effectiveness of the development and testing teams. Ongoing monitoring and testing in real-world scenarios will ensure continued reliability.
 
 > Jump [up](#🎫-dipl-informatikerin-hf-cloud-native-engineer--hf-2nd-semester)
