@@ -2,6 +2,7 @@
 
 > Go [back](/pages/testing.md)
 >
+> Go [further](/pages/report.md)
 
 ![Banner](/img/banner_sources.png)
 
